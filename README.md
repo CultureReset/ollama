@@ -1,3 +1,14 @@
+> **CultureReset fork of [ollama/ollama](https://github.com/ollama/ollama).** Run open models locally.
+>
+> - **Why it is here:** Source reference for the local model runner.
+> - **Does anything run from it:** No. NODE runs the official release, not a build of this fork.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/ollama/ollama).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="center">
   <a href="https://ollama.com">
     <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="ollama" width="200"/>
